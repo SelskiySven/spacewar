@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("img/bg.png");
+    background-size: 25vw 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
